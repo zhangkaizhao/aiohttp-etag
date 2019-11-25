@@ -1,0 +1,5 @@
+-e .
+aiohttp>=3.6.2
+flake8>=3.7.9
+pytest>=5.2.2
+pytest-aiohttp>=0.3.0
